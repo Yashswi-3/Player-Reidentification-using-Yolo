@@ -1,4 +1,4 @@
-```
+
 # Player Re-identification in Sports Footage
 
 A sophisticated computer vision system for tracking and re-identifying players in sports footage using YOLOv11 object detection and advanced tracking algorithms.
@@ -243,4 +243,4 @@ This project is developed for educational and evaluation purposes as part of the
 **Last Updated**: June 29, 2025  
 **Author**: Yashswi Shukla  
 **Assignment**: Liat.ai Player Re-identification Challenge
-```
+
