@@ -7,11 +7,11 @@
   },
   "performance_metrics": {
     "total_tracks_created": 16,
-    "successful_reidentifications": 0,
+    "successful_reidentifications": 18,
     "id_switches": 0,
     "tracks_in_memory": 0,
     "final_active_tracks": 16,
-    "average_track_lifetime": 0.0,
+    "average_track_lifetime": 171.5625,
     "stability_score": 1.0
   },
   "track_history": {
@@ -19,30 +19,75 @@
       {
         "frame": 1,
         "action": "created"
+      },
+      {
+        "frame": 289,
+        "action": "disappeared"
+      },
+      {
+        "frame": 290,
+        "action": "reidentified",
+        "similarity": 0.7042742328594159
       }
     ],
     "2": [
       {
         "frame": 1,
         "action": "created"
+      },
+      {
+        "frame": 121,
+        "action": "disappeared"
+      },
+      {
+        "frame": 122,
+        "action": "reidentified",
+        "similarity": 0.8017169372952887
       }
     ],
     "3": [
       {
         "frame": 1,
         "action": "created"
+      },
+      {
+        "frame": 286,
+        "action": "disappeared"
+      },
+      {
+        "frame": 287,
+        "action": "reidentified",
+        "similarity": 0.8343988533444676
       }
     ],
     "4": [
       {
         "frame": 1,
         "action": "created"
+      },
+      {
+        "frame": 182,
+        "action": "disappeared"
+      },
+      {
+        "frame": 183,
+        "action": "reidentified",
+        "similarity": 0.6694572400970445
       }
     ],
     "5": [
       {
         "frame": 1,
         "action": "created"
+      },
+      {
+        "frame": 154,
+        "action": "disappeared"
+      },
+      {
+        "frame": 155,
+        "action": "reidentified",
+        "similarity": 0.7662811884366495
       }
     ],
     "6": [
@@ -55,24 +100,78 @@
       {
         "frame": 1,
         "action": "created"
+      },
+      {
+        "frame": 167,
+        "action": "disappeared"
+      },
+      {
+        "frame": 168,
+        "action": "reidentified",
+        "similarity": 0.711228900683881
       }
     ],
     "8": [
       {
         "frame": 1,
         "action": "created"
+      },
+      {
+        "frame": 86,
+        "action": "disappeared"
+      },
+      {
+        "frame": 87,
+        "action": "reidentified",
+        "similarity": 0.690507873841114
+      },
+      {
+        "frame": 253,
+        "action": "disappeared"
+      },
+      {
+        "frame": 254,
+        "action": "reidentified",
+        "similarity": 0.7899832706007618
       }
     ],
     "9": [
       {
         "frame": 1,
         "action": "created"
+      },
+      {
+        "frame": 173,
+        "action": "disappeared"
+      },
+      {
+        "frame": 174,
+        "action": "reidentified",
+        "similarity": 0.7597565942684518
+      },
+      {
+        "frame": 250,
+        "action": "disappeared"
+      },
+      {
+        "frame": 251,
+        "action": "reidentified",
+        "similarity": 0.6734639489563438
       }
     ],
     "10": [
       {
         "frame": 1,
         "action": "created"
+      },
+      {
+        "frame": 204,
+        "action": "disappeared"
+      },
+      {
+        "frame": 205,
+        "action": "reidentified",
+        "similarity": 0.6987057211589527
       }
     ],
     "11": [
@@ -85,6 +184,15 @@
       {
         "frame": 1,
         "action": "created"
+      },
+      {
+        "frame": 78,
+        "action": "disappeared"
+      },
+      {
+        "frame": 79,
+        "action": "reidentified",
+        "similarity": 0.6831815327169282
       }
     ],
     "13": [
@@ -97,18 +205,72 @@
       {
         "frame": 1,
         "action": "created"
+      },
+      {
+        "frame": 198,
+        "action": "disappeared"
+      },
+      {
+        "frame": 199,
+        "action": "reidentified",
+        "similarity": 0.8159353672770693
+      },
+      {
+        "frame": 296,
+        "action": "disappeared"
+      },
+      {
+        "frame": 297,
+        "action": "reidentified",
+        "similarity": 0.7161660989513294
       }
     ],
     "15": [
       {
         "frame": 1,
         "action": "created"
+      },
+      {
+        "frame": 77,
+        "action": "disappeared"
+      },
+      {
+        "frame": 78,
+        "action": "reidentified",
+        "similarity": 0.7677746511566075
+      },
+      {
+        "frame": 186,
+        "action": "disappeared"
+      },
+      {
+        "frame": 187,
+        "action": "reidentified",
+        "similarity": 0.7212662670704306
+      },
+      {
+        "frame": 270,
+        "action": "disappeared"
+      },
+      {
+        "frame": 272,
+        "action": "reidentified",
+        "similarity": 0.7299142862612645
       }
     ],
     "16": [
       {
         "frame": 1,
         "action": "created"
+      },
+      {
+        "frame": 194,
+        "action": "disappeared"
+      },
+      {
+        "frame": 195,
+        "action": "reidentified",
+        "similarity": 0.6827174272602438
       }
     ]
   },
