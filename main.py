@@ -1,7 +1,3 @@
-# Enhanced Player Re-Identification Tracker (Single File Version)
-# Author: [Your Name]
-# Description: Real-time, single-feed player tracking with ID stability, re-identification, and statistics.
-
 import os
 import cv2
 import numpy as np
